@@ -1,7 +1,7 @@
 # The default is for AEM UE. Make sure to change the URL to your AEM instance and GitHub repository.
 mountpoints:
    /:
-     url: "https://author-p121371-e1189853.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/saharan-citisignal-20022025-121637/main"
+     url: "https://author-p148722-e1519832.adobeaemcloud.com/bin/franklin.delivery/svfranklindemo/saharan-citisignal-20022025-121637/main"
      type: "markup"
      suffix: ".html"
 
